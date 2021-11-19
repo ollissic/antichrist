@@ -2,13 +2,18 @@
 body {
     background-color: rgb(36, 36, 36);
 }
+@font-face {
+    font-family: "name";
+    src: url(../assets/antichrist.ttf);
+}
 h1 {
     text-align: center;
     color: rgb(255, 0, 0);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 15vw;
-    margin-top: 80px;
-    text-shadow: 10px 10px 10px yellow;
+    font-family: "name";
+    src: url(../assets/antichrist.ttf);
+    font-size: 35vw;
+    margin-top: 20px;
+    text-shadow: 10px 10px 10px rgb(255, 0, 0);
     transition: all 1s;
     animation: change-color2 1s infinite alternate;
 }
