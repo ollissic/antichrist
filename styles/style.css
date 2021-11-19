@@ -48,8 +48,14 @@ h2 {
     margin: 30px;
     margin-bottom: 40px;
 }
-
-
+a {
+    color: rgb(255, 255, 255);}
+.menu {
+    font-size: 22px;
+    text-align: center ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px;
+}
 .beautiful-element {
     color: rgb(255, 255, 255);
     font-size: 22px;
