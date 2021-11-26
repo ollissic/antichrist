@@ -9,9 +9,8 @@ body {
 h1 {
     text-align: center;
     color: rgb(255, 0, 0);
-    font-family: "name";
-    src: url(../assets/antichrist.ttf);
-    font-size: 25vw;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15vw;
     margin-top: 20px;
     text-shadow: 10px 10px 10px rgb(255, 0, 0);
     transition: all 1s;
